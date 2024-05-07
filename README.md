@@ -6,4 +6,4 @@ I attended an intro to data visualization class and ended the course creating a 
 
 Sketchfab was used for this movie.
 
-Click this link and see my 3D interactive movie ! 
+[Click this link](https://sketchfab.com/3d-models/planet-system-bca11277cd2b4b079128997aa643a81a) and see my 3D interactive movie!
