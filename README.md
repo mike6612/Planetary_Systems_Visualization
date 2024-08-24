@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I had the privilege of attending Harvard Summer School in the year 2020 through the Summer of a Lifetime program. 
+I had the privilege of attending Harvard Summer School through the Summer of a Lifetime program. 
 
 I attended an intro to data visualization class and ended the course creating a 3D interactive movie of the Kepler-11 planetary system using a variety of visualization libraries and methods, gathering and sorting data from the [NASA planet archive](https://exoplanetarchive.ipac.caltech.edu/), while utilizing Jupter Notebook and Python.
 
